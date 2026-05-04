@@ -1,0 +1,1 @@
+This project is a mock website I built from scratch as part of a class assignment. The goal was to create something that looks and feels like a real website while practicing core web development skills.
